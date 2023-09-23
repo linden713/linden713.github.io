@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "linden713"
-description              : "Tset "
+description              : "There is only one heroism in the world: to see the world as it is and to love it."
 repository               : "linden713/linden713.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -23,8 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Chenghao Lin"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Lorem ipsum College"
-  location         : "Beijing, China"
+  bio              : "University of Detroit Mercy"
+  location         : "Detroit, MI"
   employer         :
   pubmed           : 
   googlescholar    : #"https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : #"linch13"
   google_plus      :
   keybase          :
   instagram        :
