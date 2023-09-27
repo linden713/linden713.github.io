@@ -17,9 +17,12 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+🔥**Welcome to My Page!**🔥
+
 Hello, I am Chenghai Lin. I studied mechanical design, manufacturing and automation at Beijing University of Chemical Technology for the first three years. In the fourth year, I came to the University of Detroit Mercy to study robotics. My interests are robots and navigation.
 
-
+# 🔥 News
+- *2023.09*: &nbsp;🏫🏫 Come to the University of Detroit to learn more about robotics!
 
 
 
@@ -59,8 +62,17 @@ Hello, I am Chenghai Lin. I studied mechanical design, manufacturing and automat
 </div>
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+
+- *2022.11* The First Prize, RoboCup@Home China Open
+- *2022.05* The Third Prize, RoboMaster University Sim2Real Challenge
+- *2022.03* Second place in Tsinghua Intelligent Industry Research Institute Robotics Training Camp
+- *2021.12* The Second Prize, China Robot Skills Competition
+
+- *2021.12* National Scholarship, Ministry of Education(First Prize , 8,000CNY)
+- *2021.12* Excellent Student, BUCT
+- *2021.05* Second Prize Scholarship of BUCT, BUCT(TOP 7%, 600CNY)
+
+
 
 # 📖 Educations
 - *2023.07 - 2023.12 (now)*, B.Eng., Mechatronics, Robotics, and Automation Engineering, University of Detroit Mercy. Detroit, USA. 
