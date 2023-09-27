@@ -22,23 +22,46 @@ redirect_from:
 Hello, I am Chenghai Lin. I studied mechanical design, manufacturing and automation at [Beijing University of Chemical Technology](https://english.buct.edu.cn/main.htm) for the first three years. In the fourth year, I came to the [University of Detroit Mercy](https://www.udmercy.edu/) to study robotics. My interests are robots and navigation.
 
 # 🔥 News
+
 - *2023.09*: &nbsp;🏫🏫 Come to the University of Detroit to learn more about robotics!
+  
+  
 
+# 📝 Projects
 
-
-
-# 📝 Projects 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RoboCup</div><img src='images/RoboCup.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RoboCup</div><img src='images/RoboCup.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-- Developed an intelligent home service robot with functions of guest reception and guidance, voice interaction, object recognition, and room cleaning
+**RoboCup@Home China Open 2022**
 
+- Developed an intelligent home service robot with functions of guest reception and guidance, voice interaction, object recognition, and room cleaning
 
 - [What is That](https://youtu.be/Q4CnmgxCESk)
 
 - [Receptionist](https://youtu.be/N8DXzzaAM7E)
 
+- [Use jaco2 robotic arm to open the door and grab objects ](https://youtu.be/AMC0N596RX8)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RoboMaster</div><img src='images/RoboMaster.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**RoboMaster University Sim2real Challenge 2022 Team:777**](https://youtu.be/7V5SHpF0PHM)
+
+- Applied EKF to evaluate the robot’s movement in 3D space, used wheeled odometry and laser odometry to obtain the robot’s position
+- Utilized A* algorithm for global path planning and Timed Elastic Band algorithm for local path planning
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Swarm Robot</div><img src='images/swarm.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**Swarming Robot: Sim2Real Transfer**](https://youtu.be/3t6fWcQid-4)
+
+- Improved the dynamic window approach (DWA) algorithm to achieve formation control for multi-robot systems with obstacle avoidance
 
 </div>
 </div>
@@ -46,7 +69,7 @@ Hello, I am Chenghai Lin. I studied mechanical design, manufacturing and automat
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Curriculum Design</div><img src='images/Curriculum Design.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-- Course designs done during my undergraduate studies
+**Course designs done during my undergraduate studies**
 
 - [【3D Printing】 Bladeless fan and its simulation](https://youtube.com/shorts/m4qo-C5q6Ho)
 
@@ -61,7 +84,7 @@ Hello, I am Chenghai Lin. I studied mechanical design, manufacturing and automat
 </div>
 </div>
 
-# 🎖 Honors and Awards
+# 🏅 Honors and Awards
 
 - *2022.11* The First Prize, RoboCup@Home China Open
 - *2022.05* The Third Prize, RoboMaster University Sim2Real Challenge
@@ -70,14 +93,15 @@ Hello, I am Chenghai Lin. I studied mechanical design, manufacturing and automat
 - *2021.12* National Scholarship, Ministry of Education(First Prize , 8,000CNY)
 - *2021.12* Excellent Student, BUCT
 - *2021.05* Second Prize Scholarship of BUCT, BUCT(TOP 7%, 600CNY)
-
-
+  
+  
 
 # 📖 Educations
-- *2023.07 - 2023.12 (now)*, B.Eng., Mechatronics, Robotics, and Automation Engineering, University of Detroit Mercy. Detroit, USA. 
-- *2020.09 - 2023.07, B.Eng., Mechanical Design, Manufacturing, and Its Automation, Beijing University of Chemical Technology, Beijing, China
 
+- *2023.07 - 2023.12 (now)*, B.Eng., Mechatronics, Robotics, and Automation Engineering, University of Detroit Mercy. Detroit, USA. 
+- 2020.09 - 2023.07, B.Eng., Mechanical Design, Manufacturing, and Its Automation, Beijing University of Chemical Technology, Beijing, China
 
 # 💻 Internships
+
 - *2023.04 - 2023.06*, [Teaching Assistant], Beijing University of Chemical Technology, Beijing. Course: Robot Workshop. Course: Foundations of Electrical Engineering.
 - *2021.12 - 2023.05*, [Research Intern], [Institute of AI Industry Research (AIR)](https://air.tsinghua.edu.cn/en/index.htm), Tsinghua University, Beijing. Supervised by [Prof. Guyue Zhou](https://air.tsinghua.edu.cn/en/info/1046/1196.htm), PI of AIR DISCOVER Lab.
