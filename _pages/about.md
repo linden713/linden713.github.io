@@ -67,7 +67,7 @@ Hello, I am Chenghai Lin. I studied mechanical design, manufacturing and automat
 - *2022.05* The Third Prize, RoboMaster University Sim2Real Challenge
 - *2022.03* Second place in Tsinghua Intelligent Industry Research Institute Robotics Training Camp
 - *2021.12* The Second Prize, China Robot Skills Competition
-
+<br/>
 - *2021.12* National Scholarship, Ministry of Education(First Prize , 8,000CNY)
 - *2021.12* Excellent Student, BUCT
 - *2021.05* Second Prize Scholarship of BUCT, BUCT(TOP 7%, 600CNY)
