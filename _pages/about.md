@@ -19,7 +19,7 @@ redirect_from:
 
 🔥**Welcome to My Page!**🔥
 
-Hello, I am Chenghai Lin. I studied mechanical design, manufacturing and automation at Beijing University of Chemical Technology for the first three years. In the fourth year, I came to the University of Detroit Mercy to study robotics. My interests are robots and navigation.
+Hello, I am Chenghai Lin. I studied mechanical design, manufacturing and automation at [Beijing University of Chemical Technology](https://english.buct.edu.cn/main.htm) for the first three years. In the fourth year, I came to the [University of Detroit Mercy](https://www.udmercy.edu/) to study robotics. My interests are robots and navigation.
 
 # 🔥 News
 - *2023.09*: &nbsp;🏫🏫 Come to the University of Detroit to learn more about robotics!
@@ -35,9 +35,9 @@ Hello, I am Chenghai Lin. I studied mechanical design, manufacturing and automat
 - Developed an intelligent home service robot with functions of guest reception and guidance, voice interaction, object recognition, and room cleaning
 
 
-[What is That](https://youtu.be/Q4CnmgxCESk)
+- [What is That](https://youtu.be/Q4CnmgxCESk)
 
-[Receptionist](https://youtu.be/N8DXzzaAM7E)
+- [Receptionist](https://youtu.be/N8DXzzaAM7E)
 
 
 </div>
@@ -46,7 +46,7 @@ Hello, I am Chenghai Lin. I studied mechanical design, manufacturing and automat
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Curriculum Design</div><img src='images/Curriculum Design.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-- Developed an intelligent home service robot with functions of guest reception and guidance, voice interaction, object recognition, and room cleaning
+- Course designs done during my undergraduate studies
 
 - [【3D Printing】 Bladeless fan and its simulation](https://youtube.com/shorts/m4qo-C5q6Ho)
 
