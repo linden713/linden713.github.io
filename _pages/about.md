@@ -46,9 +46,13 @@ Hello, I am Chenghai Lin. I studied mechanical design, manufacturing and automat
 - Developed an intelligent home service robot with functions of guest reception and guidance, voice interaction, object recognition, and room cleaning
 
 [【3D Printing】 Bladeless fan and its simulation](https://youtube.com/shorts/m4qo-C5q6Ho)
+
 [A Microcontroller Car Based on Tm4c123g](https://youtube.com/shorts/m4qo-C5q6Ho)
+
 [Design of hydraulic system for single-leg structure of multi-legged robot](https://github.com/linden713/Design-of-hydraulic-system-for-single-leg-structure-of-multi-legged-robot)
+
 [Genetic Algorithm Based Function Optimization and BP Neural Network Based Prediction](https://github.com/linden713/Genetic-Algorithm-Based-Function-Optimization-and-BP-Neural-Network-Based-Prediction)
+
 [Secondary reduction gearbox design](https://github.com/linden713/Secondary-reduction-gearbox-design)
 
 </div>
