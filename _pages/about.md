@@ -71,7 +71,7 @@ Hello, I am Chenghai Lin. I studied mechanical design, manufacturing and automat
 
 **Course designs done during my undergraduate studies**
 
-- [【3D Printing】 Bladeless fan and its simulation](https://youtube.com/shorts/m4qo-C5q6Ho)
+- [【3D Printing】 Bladeless fan and its simulation](https://www.youtube.com/watch?v=6420fBbG6VM)
 
 - [A Microcontroller Car Based on Tm4c123g](https://youtube.com/shorts/m4qo-C5q6Ho)
 
@@ -104,4 +104,4 @@ Hello, I am Chenghai Lin. I studied mechanical design, manufacturing and automat
 # 💻 Internships
 
 - *2023.04 - 2023.06*, [Teaching Assistant], Beijing University of Chemical Technology, Beijing. Course: Robot Workshop. Course: Foundations of Electrical Engineering.
-- *2021.12 - 2023.05*, [Research Intern], [Institute of AI Industry Research (AIR)](https://air.tsinghua.edu.cn/en/index.htm), Tsinghua University, Beijing. Supervised by [Prof. Guyue Zhou](https://air.tsinghua.edu.cn/en/info/1046/1196.htm), PI of AIR DISCOVER Lab.
+- *2022.04 - 2023.05*, [Research Intern], [Institute of AI Industry Research (AIR)](https://air.tsinghua.edu.cn/en/index.htm), Tsinghua University, Beijing. Supervised by [Prof. Guyue Zhou](https://air.tsinghua.edu.cn/en/info/1046/1196.htm), PI of AIR DISCOVER Lab.
