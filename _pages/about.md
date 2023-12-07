@@ -19,7 +19,7 @@ redirect_from:
 
 🔥**Welcome to My Page!**🔥
 
-Hello, I am Chenghai Lin. I studied mechanical design, manufacturing and automation at [Beijing University of Chemical Technology](https://english.buct.edu.cn/main.htm) for the first three years. In the fourth year, I came to the [University of Detroit Mercy](https://www.udmercy.edu/) to study robotics. My interests are robots and navigation.
+Hello, I am Chenghai Lin. I studied mechanical design, manufacturing and automation at [Beijing University of Chemical Technology](https://english.buct.edu.cn/main.htm) for the first three years. In the fourth year, I came to the [University of Detroit Mercy](https://www.udmercy.edu/) to study robotics. My interests are robots, navigation, path planning and control.
 
 # 🔥 News
 
@@ -90,9 +90,12 @@ Hello, I am Chenghai Lin. I studied mechanical design, manufacturing and automat
 - *2022.05* The Third Prize, RoboMaster University Sim2Real Challenge
 - *2022.03* Second place in Tsinghua Intelligent Industry Research Institute Robotics Training Camp
 - *2021.12* The Second Prize, China Robot Skills Competition
-- *2021.12* National Scholarship, Ministry of Education(First Prize , 8,000CNY)
+
+- *2023.10* Jingbo Scholarship, Jingbo/Chambroad(5,000CNY)
+- *2023.01* Third Prize Scholarship, BUCT(400CNY)
+- *2021.12* National Scholarship, Ministry of Education(8,000CNY)
 - *2021.12* Excellent Student, BUCT
-- *2021.05* Second Prize Scholarship of BUCT, BUCT(TOP 7%, 600CNY)
+- *2021.05* Second Prize Scholarship, BUCT(600CNY)
   
   
 
@@ -105,3 +108,6 @@ Hello, I am Chenghai Lin. I studied mechanical design, manufacturing and automat
 
 - *2023.04 - 2023.06*, [Teaching Assistant], Beijing University of Chemical Technology, Beijing. Course: Robot Workshop. Course: Foundations of Electrical Engineering.
 - *2022.04 - 2023.05*, [Research Intern], [Institute of AI Industry Research (AIR)](https://air.tsinghua.edu.cn/en/index.htm), Tsinghua University, Beijing. Supervised by [Prof. Guyue Zhou](https://air.tsinghua.edu.cn/en/info/1046/1196.htm), PI of AIR DISCOVER Lab.
+
+# 📄 CV
+
