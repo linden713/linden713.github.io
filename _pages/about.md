@@ -91,6 +91,7 @@ Hello, I am Chenghai Lin. I studied mechanical design, manufacturing and automat
 - *2022.03* Second place in Tsinghua Intelligent Industry Research Institute Robotics Training Camp
 - *2021.12* The Second Prize, China Robot Skills Competition
 
+
 - *2023.10* Jingbo Scholarship, Jingbo/Chambroad(5,000CNY)
 - *2023.01* Third Prize Scholarship, BUCT(400CNY)
 - *2021.12* National Scholarship, Ministry of Education(8,000CNY)
@@ -110,5 +111,5 @@ Hello, I am Chenghai Lin. I studied mechanical design, manufacturing and automat
 - *2022.04 - 2023.05*, [Research Intern], [Institute of AI Industry Research (AIR)](https://air.tsinghua.edu.cn/en/index.htm), Tsinghua University, Beijing. Supervised by [Prof. Guyue Zhou](https://air.tsinghua.edu.cn/en/info/1046/1196.htm), PI of AIR DISCOVER Lab.
 
 # 📄 CV
-[CV](https://github.com/linden713/linden713.github.io/blob/main/CV-Chenghao%20Lin-V5-1129.pdf)
+- *[CV](https://github.com/linden713/linden713.github.io/blob/main/CV-Chenghao%20Lin-V5-1129.pdf)
 
