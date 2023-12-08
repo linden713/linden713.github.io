@@ -48,7 +48,7 @@ Hello, I am Chenghai Lin. I studied mechanical design, manufacturing and automat
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">RoboMaster</div><img src='images/RoboMaster.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**RoboMaster University Sim2real Challenge 2022 Team:777**](https://youtu.be/7V5SHpF0PHM)
+[**ICRA RoboMaster University Sim2real Challenge 2022 Team:777**](https://youtu.be/7V5SHpF0PHM)
 
 - Employed an Extended Kalman Filter (EKF) alongside an omnidirectional motion model for state projection and correction using sensor data, including IMU and odometry
 - Utilized A* algorithm for global path planning and Timed Elastic Band algorithm for local path planning
@@ -72,7 +72,7 @@ Hello, I am Chenghai Lin. I studied mechanical design, manufacturing and automat
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Curriculum Design</div><img src='images/Curriculum Design.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Course designs done during my undergraduate studies**
+**Course Designs During My Undergraduate Studies**
 
 - [【3D Printing】 Bladeless fan and its simulation](https://www.youtube.com/watch?v=6420fBbG6VM)
 
