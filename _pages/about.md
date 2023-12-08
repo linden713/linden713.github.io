@@ -110,4 +110,5 @@ Hello, I am Chenghai Lin. I studied mechanical design, manufacturing and automat
 - *2022.04 - 2023.05*, [Research Intern], [Institute of AI Industry Research (AIR)](https://air.tsinghua.edu.cn/en/index.htm), Tsinghua University, Beijing. Supervised by [Prof. Guyue Zhou](https://air.tsinghua.edu.cn/en/info/1046/1196.htm), PI of AIR DISCOVER Lab.
 
 # 📄 CV
+[CV](https://github.com/linden713/linden713.github.io/blob/main/CV-Chenghao%20Lin-V5-1129.pdf)
 
