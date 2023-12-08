@@ -50,7 +50,7 @@ Hello, I am Chenghai Lin. I studied mechanical design, manufacturing and automat
 
 [**RoboMaster University Sim2real Challenge 2022 Team:777**](https://youtu.be/7V5SHpF0PHM)
 
-- Employed an Extended Kalman Filter (EKF) alongside an omnidirectional motion model for state projection and correction using sensor data, including IMU and odometry. Additionally, integrated VINSMono (Visual-Inertial Navigation System) as an auxiliary visual odometry to enhance localization accuracy through sensor fusion
+- Employed an Extended Kalman Filter (EKF) alongside an omnidirectional motion model for state projection and correction using sensor data, including IMU and odometry
 - Utilized A* algorithm for global path planning and Timed Elastic Band algorithm for local path planning
 
 </div>
@@ -58,11 +58,14 @@ Hello, I am Chenghai Lin. I studied mechanical design, manufacturing and automat
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Swarm Robot</div><img src='images/swarm.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[**Collaborative Control of Robot Simulation**](https://www.youtube.com/watch?v=om2NmwMu-Js)
-[**Swarming Robot: Sim2Real Transfer**](https://youtu.be/3t6fWcQid-4)
+
+ **Collaborative Control of Wheeled-legged Robots** 
 
 - Aimed to study the simultaneous stabilization and tracking problems of non-holonomic wheeled mobile robots based on kinematics models
+- 
+- [Collaborative Control of Robot Simulation](https://www.youtube.com/watch?v=om2NmwMu-Js)
 
+- [Swarming Robot: Sim2Real Transfer](https://youtu.be/3t6fWcQid-4)
 </div>
 </div>
 
@@ -91,7 +94,7 @@ Hello, I am Chenghai Lin. I studied mechanical design, manufacturing and automat
 - *2022.03* Second place in Tsinghua Intelligent Industry Research Institute Robotics Training Camp
 - *2021.12* The Second Prize, China Robot Skills Competition
 
-
+ <br/>
 
 - *2023.10* Jingbo Scholarship, Jingbo/Chambroad(5,000CNY)
 - *2023.01* Third Prize Scholarship, BUCT(400CNY)
