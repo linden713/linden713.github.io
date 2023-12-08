@@ -58,10 +58,10 @@ Hello, I am Chenghai Lin. I studied mechanical design, manufacturing and automat
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Swarm Robot</div><img src='images/swarm.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
+[**Collaborative Control of Robot Simulation**](https://www.youtube.com/watch?v=om2NmwMu-Js)
 [**Swarming Robot: Sim2Real Transfer**](https://youtu.be/3t6fWcQid-4)
 
-- Improved the dynamic window approach (DWA) algorithm to achieve formation control for multi-robot systems with obstacle avoidance
+- Aimed to study the simultaneous stabilization and tracking problems of non-holonomic wheeled mobile robots based on kinematics models
 
 </div>
 </div>
