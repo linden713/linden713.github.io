@@ -62,7 +62,7 @@ Hello, I am Chenghai Lin. I studied mechanical design, manufacturing and automat
  **Collaborative Control of Wheeled-legged Robots** 
 
 - Aimed to study the simultaneous stabilization and tracking problems of non-holonomic wheeled mobile robots based on kinematics models
-- 
+  
 - [Collaborative Control of Robot Simulation](https://www.youtube.com/watch?v=om2NmwMu-Js)
 
 - [Swarming Robot: Sim2Real Transfer](https://youtu.be/3t6fWcQid-4)
