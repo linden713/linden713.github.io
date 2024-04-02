@@ -19,7 +19,7 @@ redirect_from:
 
 🔥**Welcome to My Page!**🔥
 
-Hello, I am Chenghai Lin. I studied mechanical design, manufacturing and automation at [Beijing University of Chemical Technology](https://english.buct.edu.cn/main.htm) for the first three years. In the fourth year, I came to the [University of Detroit Mercy](https://www.udmercy.edu/) to study robotics. My interests are robots, navigation, path planning and control.
+Hello, I am Chenghao Lin. I studied mechanical design, manufacturing and automation at [Beijing University of Chemical Technology](https://english.buct.edu.cn/main.htm) for the first three years. In the fourth year, I came to the [University of Detroit Mercy](https://www.udmercy.edu/) to study robotics. My interests are robots, navigation, path planning and control.
 
 # 🔥 News
 
