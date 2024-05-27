@@ -107,13 +107,13 @@ Hello, I am Chenghao Lin. I studied mechanical design, manufacturing and automat
 # 📖 Educations
 
 - *2024.08 - now*, M.Sc., Robotics, University of Michigan-Ann Arbor. Ann Arbor, USA. 
-- 2023.08 - 2024.05, B.Eng., Mechatronics, Robotics, and Automation Engineering, University of Detroit Mercy. Detroit, USA. 
+- 2023.08 - 2024.05, B.Eng., Robotic and Mechatronic Systems Engineering, University of Detroit Mercy. Detroit, USA. 
 - 2020.09 - 2023.07, B.Eng., Mechanical Design, Manufacturing, and Its Automation, Beijing University of Chemical Technology. Beijing, China
 
 # 💻 Internships
 
 - *2023.04 - 2023.06*, [Teaching Assistant], Beijing University of Chemical Technology, Beijing. Course: Robot Workshop. Course: Foundations of Electrical Engineering.
-- *2022.04 - 2023.05*, [Research Intern], [Institute of AI Industry Research (AIR)](https://air.tsinghua.edu.cn/en/index.htm), Tsinghua University, Beijing. Supervised by [Prof. Guyue Zhou](https://air.tsinghua.edu.cn/en/info/1046/1196.htm), PI of AIR DISCOVER Lab.
+- *2022.04 - 2023.05*, [Project Intern], [Institute of AI Industry Research (AIR)](https://air.tsinghua.edu.cn/en/index.htm), Tsinghua University, Beijing. Supervised by Xinliang Zhang, R&D of AIR DISCOVER Lab.
 
 # 📄 CV
 - [CV](https://github.com/linden713/linden713.github.io/blob/main/CV-Chenghao%20Lin-EN.pdf)
