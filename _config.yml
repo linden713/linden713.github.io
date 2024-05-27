@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Chenghao Lin"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "University of Detroit Mercy"
-  location         : "Detroit, MI"
+  bio              : "University of Michigan-Ann Arbor"
+  location         : "Ann Arbor, MI"
   employer         :
   pubmed           : 
   googlescholar    : #"https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "linch13@udmercy.edu"
+  email            : "lchengh@umich.edu"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -55,7 +55,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          : "@ChenghaoLin713"
+  youtube          : #"@ChenghaoLin713"
   wikipedia        :
 
 
