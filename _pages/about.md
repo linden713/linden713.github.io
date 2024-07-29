@@ -99,11 +99,11 @@ I previously studied mechanical design, manufacturing, and automation at [Beijin
 
  <br/>
 
-- *2023.10* Jingbo Scholarship, Jingbo/Chambroad(5,000CNY)
-- *2023.01* Third Prize Scholarship, BUCT(400CNY)
-- *2021.12* National Scholarship, Ministry of Education(8,000CNY)
+- *2023.10* Jingbo Scholarship, Jingbo/Chambroad
+- *2023.01* Third Prize Scholarship, BUCT
+- *2021.12* National Scholarship, Ministry of Education
 - *2021.12* Excellent Student, BUCT
-- *2021.05* Second Prize Scholarship, BUCT(600CNY)
+- *2021.05* Second Prize Scholarship, BUCT
   
   
 
@@ -115,8 +115,9 @@ I previously studied mechanical design, manufacturing, and automation at [Beijin
 
 # 💻 Internships
 
+- *2024.06 - 2024.08*, [Algorithm engineer], [Encosmart](http://www.encosmart.com/home), Beijing. 
 - *2023.04 - 2023.06*, [Teaching Assistant], Beijing University of Chemical Technology, Beijing. Course: Robot Workshop. Course: Foundations of Electrical Engineering.
-- *2022.04 - 2023.05*, [Project Intern], [Institute of AI Industry Research (AIR)](https://air.tsinghua.edu.cn/en/index.htm), Tsinghua University, Beijing. Supervised by Xinliang Zhang, R&D of AIR DISCOVER Lab.
+- *2022.04 - 2023.04*, [Project Intern], [Institute of AI Industry Research (AIR)](https://air.tsinghua.edu.cn/en/index.htm), Tsinghua University, Beijing. Supervised by Xinliang Zhang, R&D of AIR DISCOVER Lab.
 
 # 📄 CV
 - [CV](https://github.com/linden713/linden713.github.io/blob/main/CV-Chenghao%20Lin-EN.pdf)
