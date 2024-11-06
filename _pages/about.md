@@ -32,7 +32,7 @@ I previously studied mechanical design, manufacturing, and automation at [Beijin
 
 # 📝 Projects
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RoboCup</div><img src='images/DogJump.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RL</div><img src='images/DogJump.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Reinforcement Related**
