@@ -32,6 +32,20 @@ I previously studied mechanical design, manufacturing, and automation at [Beijin
 
 # 📝 Projects
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RoboCup</div><img src='images/DogJump.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Reinforcement Related**
+
+- Some interesting projects using RL
+
+- [Isaac Lab Lift the Cube Using PPO](https://www.youtube.com/watch?v=85kfourVDQw)
+
+- [Training a Robot Dog to Leap in Isaac Gym](https://www.youtube.com/watch?v=7Vgz2X01VxU)
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">RoboCup</div><img src='images/RoboCup.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
