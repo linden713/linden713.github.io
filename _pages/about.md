@@ -35,9 +35,9 @@ I previously studied mechanical design, manufacturing, and automation at [Beijin
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">RL</div><img src='images/DogJump.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Reinforcement Related**
+**Learning Related**
 
-- Some interesting projects using RL
+- Guidance Diffusion Policy (ongoing)
 
 - [Isaac Lab Lift the Cube Using PPO](https://www.youtube.com/watch?v=85kfourVDQw)
 
