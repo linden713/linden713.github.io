@@ -31,6 +31,19 @@ I previously studied mechanical design, manufacturing, and automation at [Beijin
   
 
 # 📝 Projects
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RL</div><img src='images/DogJump.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Robotics Internship, Cupertino (2025.05 - 2025.08)**  
+
+- Benchmarked advanced LIO frameworks (**Point-LIO**, **LIO-SAM**, **Fast-LIO**) on the Unitree G1 with MID360 sensor, and generated high-resolution height maps
+- Performed [**direct_visual_lidar_calibration**](https://koide3.github.io/direct_visual_lidar_calibration/) for **target-less, automatic LiDAR–camera calibration**, applicable across diverse LiDAR and camera models  
+- Extended the ** ### framework** with imitation learning modules (**ACT, Diffusion Policy, FLOW**) to evaluate policy performance  
+- Implemented **gravity compensation** for the G1 in **MuJoCo** and experimented with **mink** (Python-based inverse kinematics for MuJoCo)  
+- Validated **real-robot imitation learning** on **Flexiv** and **G1 dual-arm systems**, integrating **asynchronous multi-process inference**  
+- Fused **upper-body manipulation policies** with **lower-body locomotion policies** to enable coordinated whole-body control  
+
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">RL</div><img src='images/DogJump.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
