@@ -85,8 +85,8 @@ Fused upper-body and lower-body policies for whole-body control, with MuJoCo gra
 
 [**ICRA RoboMaster University Sim2real Challenge 2022 Team:777**](https://youtu.be/7V5SHpF0PHM)
 
-- Employed an Extended Kalman Filter (EKF) alongside an omnidirectional motion model for state projection and correction using sensor data, including IMU and odometry
-- Utilized A* algorithm for global path planning and Timed Elastic Band algorithm for local path planning
+- Developed a fast robotic system to locate, grasp, and deliver three designated blocks in a mapped environment
+- Applied EKF for state estimation and A*/TEB for navigation, ranking 4th in simulation
 
 </div>
 </div>
