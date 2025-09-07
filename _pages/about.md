@@ -31,7 +31,7 @@ I previously studied mechanical design, manufacturing, and automation at [Beijin
   
 
 # 📝 Projects
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NDA</div><img src='images/nda.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NDA</div><img src='images/nda.pnfg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Robotics Internship, Cupertino**  
@@ -98,7 +98,7 @@ I previously studied mechanical design, manufacturing, and automation at [Beijin
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Swarm Robot</div><img src='images/swarm.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
- **Intern Institute of AI Industry Research (AIR), Tsinghua University** 
+ **Intern, Institute of AI Industry Research (AIR), Tsinghua University** 
 
 - Aimed to study the simultaneous stabilization and tracking problems of non-holonomic wheeled mobile robots based on kinematics models
   
@@ -160,6 +160,7 @@ I previously studied mechanical design, manufacturing, and automation at [Beijin
 - *2022.04 - 2023.01*, [Project Intern], [Institute of AI Industry Research (AIR)](https://air.tsinghua.edu.cn/en/index.htm), Tsinghua University, Beijing. Supervised by Xinliang Zhang, R&D of AIR DISCOVER Lab.
 
 # 📺 Video Channel
+ - Wanna see more?
  - [YouTube](https://www.youtube.com/@ChenghaoLin713)
  - [Bilibili](https://space.bilibili.com/289615290)
 
