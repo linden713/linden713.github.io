@@ -34,14 +34,13 @@ I previously studied mechanical design, manufacturing, and automation at [Beijin
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NDA</div><img src='images/nda.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Robotics Internship, Cupertino (2025.05 - 2025.08)**  
+**Robotics Internship, Cupertino**  
 
-- Benchmarked advanced LIO frameworks (**Point-LIO**, **LIO-SAM**, **Fast-LIO**) on the Unitree G1 with MID360 sensor, and generated high-resolution height maps
-- Performed [**direct_visual_lidar_calibration**](https://koide3.github.io/direct_visual_lidar_calibration/) for **target-less, automatic LiDAR–camera calibration**, applicable across diverse LiDAR and camera models  
-- Extended the ** ### framework** with imitation learning modules (**ACT, Diffusion Policy, FLOW**) to evaluate policy performance  
-- Implemented **gravity compensation** for the G1 in **MuJoCo** and experimented with **mink** (Python-based inverse kinematics for MuJoCo)  
-- Validated **real-robot imitation learning** on **Flexiv** and **G1 dual-arm systems**, integrating **asynchronous multi-process inference**  
-- Fused **upper-body manipulation policies** with **lower-body locomotion policies** to enable coordinated whole-body control  
+Benchmarked LIO frameworks (Point-LIO, LIO-SAM, Fast-LIO) on Unitree G1 + MID360 for SLAM and height map generation
+
+Extended existing framework with imitation learning policies (ACT, DP, FLOW), deployed on Flexiv and G1
+
+Fused upper-body and lower-body policies for whole-body control, with MuJoCo gravity compensation and Mink IK solver
 
 </div>
 </div>
@@ -59,8 +58,8 @@ I previously studied mechanical design, manufacturing, and automation at [Beijin
 - [Training a Robot Dog to Leap in Isaac Gym](https://www.youtube.com/watch?v=7Vgz2X01VxU)
 
 - [Unitree go2 sim2real using Isaac Lab](https://www.youtube.com/watch?v=7Vgz2X01VxU)
-[![Demo](https://img.shields.io/badge/Demo-Dance-ff69b4?style=flat&logo=bilibili)](https://www.bilibili.com/video/BV1TRbAz5Eap/?p=2)
-[![Demo](https://img.shields.io/badge/Demo-Dance-ff69b4?style=flat-square&logo=bilibili)](https://www.bilibili.com/video/BV1TRbAz5Eap/?p=2)
+[![Bilibili](https://img.shields.io/badge/-ff69b4?style=flat&logo=bilibili&logoColor=white)](https://www.bilibili.com/video/BV1TRbAz5Eap/?p=2)
+
 
 [![Demo - Dance (YouTube)]()
 </div>
