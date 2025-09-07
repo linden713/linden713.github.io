@@ -59,7 +59,9 @@ I previously studied mechanical design, manufacturing, and automation at [Beijin
 - [Training a Robot Dog to Leap in Isaac Gym](https://www.youtube.com/watch?v=7Vgz2X01VxU)
 
 - [Unitree go2 sim2real using Isaac Lab](https://www.youtube.com/watch?v=7Vgz2X01VxU)
-[![Demo](https://img.shields.io/badge/Demo-Dance-ff69b4?style=for-the-badge&logo=bilibili)](https://www.bilibili.com/video/BV1TRbAz5Eap/?p=2&share_source=copy_web&vd_source=0de36dd681c4f7ffab776ec97939e21f)
+[![Demo](https://img.shields.io/badge/Demo-Dance-ff69b4?style=flat&logo=bilibili)](https://www.bilibili.com/video/BV1TRbAz5Eap/?p=2)
+[![Demo](https://img.shields.io/badge/Demo-Dance-ff69b4?style=flat-square&logo=bilibili)](https://www.bilibili.com/video/BV1TRbAz5Eap/?p=2)
+
 [![Demo - Dance (YouTube)]()
 </div>
 </div>
