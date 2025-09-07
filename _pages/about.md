@@ -95,7 +95,7 @@ I previously studied mechanical design, manufacturing, and automation at [Beijin
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Swarm Robot</div><img src='images/swarm.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Swarm Robot</div><img src='images/arx45.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
  **Intern, Institute of AI Industry Research (AIR), Tsinghua University** 
