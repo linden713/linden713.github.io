@@ -94,20 +94,21 @@ Fused upper-body and lower-body policies for whole-body control, with MuJoCo gra
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Swarm Robot</div><img src='images/swarm.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
- **Collaborative Control of Wheeled-legged Robots** 
+ **Intern Institute of AI Industry Research (AIR), Tsinghua University** 
 
 - Aimed to study the simultaneous stabilization and tracking problems of non-holonomic wheeled mobile robots based on kinematics models
   
 - [Collaborative Control of Robot Simulation](https://www.youtube.com/watch?v=om2NmwMu-Js)
 
 - [Swarming Robot: Sim2Real Transfer](https://youtu.be/3t6fWcQid-4)
+- ARX-5 MoveIt
 </div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Curriculum Design</div><img src='images/Curriculum Design.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Course Designs During My Undergraduate Studies**
+**Selected Course & Independent Projects**
 
 - [【3D Printing】 Bladeless fan and its simulation](https://www.youtube.com/watch?v=6420fBbG6VM)
 
@@ -115,10 +116,13 @@ Fused upper-body and lower-body policies for whole-body control, with MuJoCo gra
 
 - [Design of hydraulic system for single-leg structure of multi-legged robot](https://github.com/linden713/Design-of-hydraulic-system-for-single-leg-structure-of-multi-legged-robot)
 
-- [Genetic Algorithm Based Function Optimization and BP Neural Network Based Prediction](https://github.com/linden713/Genetic-Algorithm-Based-Function-Optimization-and-BP-Neural-Network-Based-Prediction)
+- [Learning Pushing Dynamics with Neural ODE and MPPI](https://github.com/linden713/Dynamic_Neural_ode?tab=readme-ov-file)
 
 - [Secondary reduction gearbox design](https://github.com/linden713/Secondary-reduction-gearbox-design)
 
+- [Fiber-Reinforced Pneumatic Actuator Soft Hand](https://www.bilibili.com/video/BV15LuczeEBo/)
+
+- [ROB550 Click2Grasp & Click2Place Demo](https://www.youtube.com/watch?v=gvwmTWTLq_Y)
 </div>
 </div>
 
