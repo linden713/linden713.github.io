@@ -19,9 +19,9 @@ redirect_from:
 
 🔥**Welcome to My Page!**🔥
 
-I am currently pursuing my degree in robotics at the University of Michigan, specializing in Robot Perception & Manipulation. My interests lie in learning and mobile manipulation.
+I am currently pursuing my degree in robotics at the University of Michigan. My interests lie in robot learning and its practical applications.
 
-I previously studied mechanical design, manufacturing, and automation at [Beijing University of Chemical Technology](https://www.buct.edu.cn/main.htm) for three years and study my fourth year in the [University of Detroit Mercy](https://www.udmercy.edu/).
+I previously studied mechanical design, manufacturing, and automation at [Beijing University of Chemical Technology](https://www.buct.edu.cn/main.htm) for three years and studied my fourth year at [University of Detroit Mercy](https://www.udmercy.edu/).
 
 
 # 🔥 News
@@ -55,13 +55,12 @@ Fused upper-body and lower-body policies for whole-body control, with MuJoCo gra
 
 - [Isaac Lab Lift the Cube Using PPO](https://www.youtube.com/watch?v=85kfourVDQw)
 
-- [Training a Robot Dog to Leap in Isaac Gym](https://www.youtube.com/watch?v=7Vgz2X01VxU)
+- [Training a Robot Dog to Leap in Isaac Gym](https://github.com/linden713/humanoid_amp)
 
 - [Unitree go2 sim2real using Isaac Lab](https://www.youtube.com/watch?v=7Vgz2X01VxU)
 [![Bilibili](https://img.shields.io/badge/-ff69b4?style=flat&logo=bilibili&logoColor=white)](https://www.bilibili.com/video/BV1TRbAz5Eap/?p=2)
 
-
-[![Demo - Dance (YouTube)]()
+- [Isaac Lab Humanoid AMP for Unitree G1](https://www.youtube.com/watch?v=7Vgz2X01VxU)（200+⭐）
 </div>
 </div>
 
@@ -72,9 +71,9 @@ Fused upper-body and lower-body policies for whole-body control, with MuJoCo gra
 
 - Developed an intelligent home service robot with functions of guest reception and guidance, voice interaction, object recognition, and room cleaning
 
-- [What is That](https://youtu.be/Q4CnmgxCESk)
+- [What is That](https://youtu.be/Q4CnmgxCESk)— Robot follows a person, who points to an object, and the robot names it
 
-- [Receptionist](https://youtu.be/N8DXzzaAM7E)
+- [Receptionist](https://youtu.be/N8DXzzaAM7E)— Robot welcomes guests, introduces them to the host, and guides them to their seats.
 
 - [Use jaco2 robotic arm to open the door and grab objects ](https://youtu.be/AMC0N596RX8)
 
