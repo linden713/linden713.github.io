@@ -38,7 +38,7 @@ I previously studied mechanical design, manufacturing, and automation at [Beijin
 
 Benchmarked LIO frameworks (Point-LIO, LIO-SAM, Fast-LIO) on Unitree G1 + MID360 for SLAM and height map generation
 
-Extended existing framework with imitation learning policies (ACT, DP, FLOW), deployed on Flexiv and G1
+Extended the existing framework with imitation learning policies (ACT, DP, FLOW), deployed on Flexiv and G1
 
 Fused upper-body and lower-body policies for whole-body control, with MuJoCo gravity compensation and Mink IK solver
 
@@ -60,7 +60,9 @@ Fused upper-body and lower-body policies for whole-body control, with MuJoCo gra
 - [Unitree go2 sim2real using Isaac Lab](https://www.youtube.com/watch?v=7Vgz2X01VxU)
 [![Bilibili](https://img.shields.io/badge/-ff69b4?style=flat&logo=bilibili&logoColor=white)](https://www.bilibili.com/video/BV1TRbAz5Eap/?p=2)
 
-- [Isaac Lab Humanoid AMP for Unitree G1](https://www.youtube.com/watch?v=7Vgz2X01VxU)（200+⭐）
+- [Isaac Lab Humanoid AMP for Unitree G1](https://www.youtube.com/watch?v=7Vgz2X01VxU)
+[![Bilibili](https://img.shields.io/badge/-ff69b4?style=flat&logo=bilibili&logoColor=white)](https://www.bilibili.com/video/BV1vW36zEEG8)
+(200+⭐)
 </div>
 </div>
 
@@ -71,11 +73,12 @@ Fused upper-body and lower-body policies for whole-body control, with MuJoCo gra
 
 - Developed an intelligent home service robot with functions of guest reception and guidance, voice interaction, object recognition, and room cleaning
 
+- [Receptionist](https://youtu.be/N8DXzzaAM7E)— Robot welcomes guests, introduces them to the host, and guides them to their seats
+[![Bilibili](https://img.shields.io/badge/-ff69b4?style=flat&logo=bilibili&logoColor=white)](https://www.bilibili.com/video/BV1dae3zfEdM)
+
 - [What is That](https://youtu.be/Q4CnmgxCESk)— Robot follows a person, who points to an object, and the robot names it
 
-- [Receptionist](https://youtu.be/N8DXzzaAM7E)— Robot welcomes guests, introduces them to the host, and guides them to their seats.
-
-- [Use jaco2 robotic arm to open the door and grab objects ](https://youtu.be/AMC0N596RX8)
+- [Use the jaco2 robotic arm to open the door and grab objects ](https://youtu.be/AMC0N596RX8)
 
 </div>
 </div>
@@ -150,11 +153,12 @@ Fused upper-body and lower-body policies for whole-body control, with MuJoCo gra
 - 2020.09 - 2023.07, B.Eng., Mechanical Design, Manufacturing, and Its Automation, Beijing University of Chemical Technology. Beijing, China
 
 # 💻 Internships
-
+- *2025.05 - 2024.08*, [Intern], Cupertino. 
 - *2024.06 - 2024.08*, [Algorithm engineer], [Encosmart](http://www.encosmart.com/home), Beijing. 
 - *2023.04 - 2023.06*, [Teaching Assistant], Beijing University of Chemical Technology, Beijing. Course: Robot Workshop. Course: Foundations of Electrical Engineering.
-- *2022.04 - 2023.04*, [Project Intern], [Institute of AI Industry Research (AIR)](https://air.tsinghua.edu.cn/en/index.htm), Tsinghua University, Beijing. Supervised by Xinliang Zhang, R&D of AIR DISCOVER Lab.
+- *2022.04 - 2023.01*, [Project Intern], [Institute of AI Industry Research (AIR)](https://air.tsinghua.edu.cn/en/index.htm), Tsinghua University, Beijing. Supervised by Xinliang Zhang, R&D of AIR DISCOVER Lab.
 
-# 📄 CV
-- [CV](https://github.com/linden713/linden713.github.io/blob/main/CV-Chenghao%20Lin-EN.pdf)
+# 📺 Video Channel
+ - [YouTube](https://www.youtube.com/@ChenghaoLin713)
+ - [Bilibili](https://space.bilibili.com/289615290)
 
