@@ -73,10 +73,11 @@ I previously studied mechanical design, manufacturing, and automation at [Beijin
 
 - Developed an intelligent home service robot with functions of guest reception and guidance, voice interaction, object recognition, and room cleaning
 
-- [Receptionist](https://youtu.be/N8DXzzaAM7E)— Robot welcomes guests, introduces them to the host, and guides them to their seats
+- [Receptionist](https://youtu.be/N8DXzzaAM7E)
 [![Bilibili](https://img.shields.io/badge/-ff69b4?style=flat&logo=bilibili&logoColor=white)](https://www.bilibili.com/video/BV1dae3zfEdM)
+ — Robot welcomes guests, introduces them to the host, and guides them to their seats
 
-- [What is That](https://youtu.be/Q4CnmgxCESk)— Robot follows a person, who points to an object, and the robot names it
+- [What is That](https://youtu.be/Q4CnmgxCESk) — Robot follows a person, who points to an object, and the robot names it
 
 - [Use the jaco2 robotic arm to open the door and grab objects ](https://youtu.be/AMC0N596RX8)
 
