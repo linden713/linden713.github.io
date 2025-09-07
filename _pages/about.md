@@ -43,6 +43,8 @@ I previously studied mechanical design, manufacturing, and automation at [Beijin
 - Validated **real-robot imitation learning** on **Flexiv** and **G1 dual-arm systems**, integrating **asynchronous multi-process inference**  
 - Fused **upper-body manipulation policies** with **lower-body locomotion policies** to enable coordinated whole-body control  
 
+</div>
+</div>
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">RL</div><img src='images/DogJump.gif' alt="sym" width="100%"></div></div>
