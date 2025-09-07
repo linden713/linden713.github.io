@@ -21,7 +21,7 @@ redirect_from:
 
 I am currently pursuing my degree in robotics at the University of Michigan, specializing in Robot Perception & Manipulation. My interests lie in learning and mobile manipulation.
 
-I previously studied mechanical design, manufacturing, and automation at [Beijing University of Chemical Technology](https://www.buct.edu.cn/main.htm) for three years before transferring to the [University of Detroit Mercy](https://www.udmercy.edu/) for my fourth year in robotics.
+I previously studied mechanical design, manufacturing, and automation at [Beijing University of Chemical Technology](https://www.buct.edu.cn/main.htm) for three years and study my fourth year in the [University of Detroit Mercy](https://www.udmercy.edu/).
 
 
 # 🔥 News
@@ -31,7 +31,7 @@ I previously studied mechanical design, manufacturing, and automation at [Beijin
   
 
 # 📝 Projects
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RL</div><img src='images/DogJump.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NDA</div><img src='images/nda.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Robotics Internship, Cupertino (2025.05 - 2025.08)**  
@@ -58,6 +58,9 @@ I previously studied mechanical design, manufacturing, and automation at [Beijin
 
 - [Training a Robot Dog to Leap in Isaac Gym](https://www.youtube.com/watch?v=7Vgz2X01VxU)
 
+- [Unitree go2 sim2real using Isaac Lab](https://www.youtube.com/watch?v=7Vgz2X01VxU)
+[![Demo](https://img.shields.io/badge/Demo-Dance-ff69b4?style=for-the-badge&logo=bilibili)](https://www.bilibili.com/video/BV1TRbAz5Eap/?p=2&share_source=copy_web&vd_source=0de36dd681c4f7ffab776ec97939e21f)
+[![Demo - Dance (YouTube)]()
 </div>
 </div>
 
