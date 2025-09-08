@@ -72,7 +72,7 @@ I previously studied mechanical design, manufacturing, and automation at [Beijin
 **RoboCup@Home China Open 2022**
 
 - Developed an intelligent home service robot with functions of guest reception and guidance, voice interaction, object recognition, and room cleaning
-
+(Winning the First Prize in 2022 as team leader, all videos below are just demonstrations)
 - [Receptionist](https://youtu.be/N8DXzzaAM7E)
 [![Bilibili](https://img.shields.io/badge/-ff69b4?style=flat&logo=bilibili&logoColor=white)](https://www.bilibili.com/video/BV1dae3zfEdM)
  — Robot welcomes guests, introduces them to the host, and guides them to their seats
@@ -105,7 +105,7 @@ I previously studied mechanical design, manufacturing, and automation at [Beijin
 - [Collaborative Control of Robot Simulation](https://www.youtube.com/watch?v=om2NmwMu-Js)
 
 - [Swarming Robot: Sim2Real Transfer](https://youtu.be/3t6fWcQid-4)
-- ARX-5 MoveIt
+- ARX-5 MoveIt (Supervised by Xinliang Zhang)
 </div>
 </div>
 
