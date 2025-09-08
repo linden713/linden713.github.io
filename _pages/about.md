@@ -46,7 +46,7 @@ I previously studied mechanical design, manufacturing, and automation at [Beijin
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RL</div><img src='images/DogJump.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IL&RL</div><img src='images/DogJump.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Learning Related**
@@ -72,7 +72,7 @@ I previously studied mechanical design, manufacturing, and automation at [Beijin
 **RoboCup@Home China Open 2022**
 
 - Developed an intelligent home service robot with functions of guest reception and guidance, voice interaction, object recognition, and room cleaning
-(Winning the First Prize in 2022 as team leader, all videos below are just demonstrations)
+(Winning the **First Prize** in 2022 as team leader, all videos below are just demonstrations)
 - [Receptionist](https://youtu.be/N8DXzzaAM7E)
 [![Bilibili](https://img.shields.io/badge/-ff69b4?style=flat&logo=bilibili&logoColor=white)](https://www.bilibili.com/video/BV1dae3zfEdM)
  — Robot welcomes guests, introduces them to the host, and guides them to their seats
@@ -90,7 +90,7 @@ I previously studied mechanical design, manufacturing, and automation at [Beijin
 [**ICRA RoboMaster University Sim2real Challenge 2022 Team:777**](https://youtu.be/7V5SHpF0PHM)
 
 - Developed a fast robotic system to locate, grasp, and deliver three designated blocks in a mapped environment
-- Applied EKF for state estimation and A*/TEB for navigation, ranking 4th in simulation
+- Applied EKF for state estimation and A*/TEB for navigation, ranking **4th** in simulation
 
 </div>
 </div>
@@ -127,6 +127,8 @@ I previously studied mechanical design, manufacturing, and automation at [Beijin
 - [Fiber-Reinforced Pneumatic Actuator Soft Hand](https://www.bilibili.com/video/BV15LuczeEBo/)
 
 - [ROB550 Click2Grasp & Click2Place Demo](https://www.youtube.com/watch?v=gvwmTWTLq_Y)
+  
+- [Gemma 3 QLoRA Fine-tune Roleplay]
 </div>
 </div>
 
