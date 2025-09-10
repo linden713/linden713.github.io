@@ -36,11 +36,7 @@ I previously studied mechanical design, manufacturing, and automation at [Beijin
 
 **Robotics Internship, Cupertino**  
 
-- Benchmarked LIO frameworks (Point-LIO, LIO-SAM, Fast-LIO) on Unitree G1 + MID360 for SLAM and height map generation
 
-- Extended the existing framework with imitation learning policies (ACT, DP, FLOW), deployed on Flexiv and G1
-
-- Fused upper-body and lower-body policies for whole-body control, with MuJoCo gravity compensation and Mink IK solver
 
 </div>
 </div>
