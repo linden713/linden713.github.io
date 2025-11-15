@@ -51,6 +51,10 @@ I previously studied mechanical design, manufacturing, and automation at [Beijin
 - [Isaac Lab Humanoid AMP for Unitree G1](https://www.youtube.com/watch?v=7Vgz2X01VxU)
 [![Bilibili](https://img.shields.io/badge/-ff69b4?style=flat&logo=bilibili&logoColor=white)](https://www.bilibili.com/video/BV1vW36zEEG8)
 (200+⭐)
+
+- ACT DP Flow
+
+- [BabyLocoFormer](https://github.com/linden713/BabyLocoFormer)
 </div>
 </div>
 
