@@ -52,7 +52,7 @@ I previously studied mechanical design, manufacturing, and automation at [Beijin
 [![Bilibili](https://img.shields.io/badge/-ff69b4?style=flat&logo=bilibili&logoColor=white)](https://www.bilibili.com/video/BV1vW36zEEG8)
 (200+⭐)
 
-- ACT DP Flow
+- ACT DP Flow Locomanipulation
 
 - [BabyLocoFormer](https://github.com/linden713/BabyLocoFormer)
 </div>
