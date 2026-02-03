@@ -48,7 +48,7 @@ I previously studied mechanical design, manufacturing, and automation at [Beijin
 - [Unitree go2 sim2real using Isaac Lab](https://www.youtube.com/watch?v=7Vgz2X01VxU)
 [![Bilibili](https://img.shields.io/badge/-ff69b4?style=flat&logo=bilibili&logoColor=white)](https://www.bilibili.com/video/BV1TRbAz5Eap/?p=2)
 
-- [Isaac Lab Humanoid AMP for Unitree G1](https://www.youtube.com/watch?v=7Vgz2X01VxU)
+- [Isaac Lab Humanoid AMP for Unitree G1](https://github.com/linden713/humanoid_amp)
 [![Bilibili](https://img.shields.io/badge/-ff69b4?style=flat&logo=bilibili&logoColor=white)](https://www.bilibili.com/video/BV1vW36zEEG8)
 (200+⭐)
 
