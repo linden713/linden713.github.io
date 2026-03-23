@@ -39,7 +39,7 @@ I previously studied mechanical design, manufacturing, and automation at [Beijin
 
 **Learning Related**
 
-- Guidance Diffusion Policy (ongoing)
+- [Guidance Diffusion Policy](https://github.com/linden713/linden713.github.io/blob/main/diffusion.pdf)
 
 - [Isaac Lab Lift the Cube Using PPO](https://www.youtube.com/watch?v=85kfourVDQw)
 
